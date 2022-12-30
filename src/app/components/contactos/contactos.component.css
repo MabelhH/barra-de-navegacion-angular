@@ -1,0 +1,27 @@
+.container-fluid{
+    background-color: rgb(250, 242, 209);
+    padding: 150px;
+    margin-top:15px ;
+} 
+ .formulario{
+  background-color: aliceblue;
+  border: 1px solid yellowgreen;
+  height: 598px;
+ }
+ h1{
+    text-align: center;
+    justify-content: center;
+ }
+ .li1{
+  margin-left: 180px;
+ }
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
